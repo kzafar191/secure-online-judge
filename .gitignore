@@ -1,0 +1,19 @@
+# Node Modules
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Environment Variables (Keep secrets safe!)
+.env
+.env.local
+backend/.env
+frontend/.env
+
+# Temporary Execution Folders
+backend/codes/
+backend/inputs/
+backend/a.out
+
+# Build and OS files
+frontend/dist/
+.DS_Store
